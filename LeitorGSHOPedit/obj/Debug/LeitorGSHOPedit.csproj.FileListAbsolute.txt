@@ -1,0 +1,7 @@
+H:\GITHUB\LeitorGSHOPedit\bin\Debug\LeitorGSHOPedit.exe.config
+H:\GITHUB\LeitorGSHOPedit\bin\Debug\LeitorGSHOPedit.exe
+H:\GITHUB\LeitorGSHOPedit\bin\Debug\LeitorGSHOPedit.pdb
+H:\GITHUB\LeitorGSHOPedit\obj\Debug\LeitorGSHOPedit.csproj.AssemblyReference.cache
+H:\GITHUB\LeitorGSHOPedit\obj\Debug\LeitorGSHOPedit.csproj.CoreCompileInputs.cache
+H:\GITHUB\LeitorGSHOPedit\obj\Debug\LeitorGSHOPedit.exe
+H:\GITHUB\LeitorGSHOPedit\obj\Debug\LeitorGSHOPedit.pdb

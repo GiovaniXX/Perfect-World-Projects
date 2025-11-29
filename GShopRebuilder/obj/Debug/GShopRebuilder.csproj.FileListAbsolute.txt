@@ -1,0 +1,8 @@
+H:\GITHUB\GShopRebuilder\bin\Debug\GShopRebuilder.exe.config
+H:\GITHUB\GShopRebuilder\bin\Debug\GShopRebuilder.exe
+H:\GITHUB\GShopRebuilder\bin\Debug\GShopRebuilder.pdb
+H:\GITHUB\GShopRebuilder\obj\Debug\GShopRebuilder.csproj.AssemblyReference.cache
+H:\GITHUB\GShopRebuilder\obj\Debug\GShopRebuilder.csproj.CoreCompileInputs.cache
+H:\GITHUB\GShopRebuilder\obj\Debug\GShopRebuilder.exe
+H:\GITHUB\GShopRebuilder\obj\Debug\GShopRebuilder.pdb
+H:\GITHUB\GShopRebuilder\obj\Debug\GShopRebuilder.exe.config

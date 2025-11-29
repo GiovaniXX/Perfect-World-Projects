@@ -1,0 +1,8 @@
+H:\GITHUB\GShopIntegrityValidator\bin\Debug\GShopIntegrityValidator.exe.config
+H:\GITHUB\GShopIntegrityValidator\bin\Debug\GShopIntegrityValidator.exe
+H:\GITHUB\GShopIntegrityValidator\bin\Debug\GShopIntegrityValidator.pdb
+H:\GITHUB\GShopIntegrityValidator\obj\Debug\GShopIntegrityValidator.csproj.AssemblyReference.cache
+H:\GITHUB\GShopIntegrityValidator\obj\Debug\GShopIntegrityValidator.csproj.CoreCompileInputs.cache
+H:\GITHUB\GShopIntegrityValidator\obj\Debug\GShopIntegrityValidator.exe
+H:\GITHUB\GShopIntegrityValidator\obj\Debug\GShopIntegrityValidator.pdb
+H:\GITHUB\GShopIntegrityValidator\obj\Debug\GShopIntegrityValidator.exe.config
